@@ -7,7 +7,8 @@ This repository contains assignments and course contents for **CIS 518: Secure S
 This course explores characteristics that make software secure and less vulnerable to attacks. Basic techniques for securing applications such as input validation, output encoding, memory management, race conditions, vulnerability analysis and testing, authentication, access control and secure database management will be covered in detail. 
 
 ## Text
-Wenliang Du, Computer Security – A Hands-on Approach, Third Edition
+Computer Security – A Hands-on Approach, Third Edition\
+Wenliang Du
 
 ## Tools & Technologies
 - Programming languages: C, Bash
