@@ -1,6 +1,6 @@
 # CIS 518: Secure Software Engineering
 
-This repository contains assignments for **CIS 518: Secure Software Engineering**.  
+This repository contains assignments and course contents for **CIS 518: Secure Software Engineering**.  
 
 
 ## Course Overview
@@ -10,7 +10,7 @@ This course explores characteristics that make software secure and less vulnerab
 Wenliang Du, Computer Security – A Hands-on Approach, Third Edition
 
 ## Tools & Technologies
-- Programming languages: C
+- Programming languages: C, Bash
 - Topics: SetUID Programs, Shellcode, Reverse Shell, Buffer Overflow Attack, Format String Vulnerability, Return-to-libc Attack, Race Condition Vulnerability, Cross-Site Request Forgery (CSRF) Attack, Cross-Site Scripting Attack (XSS) Attack, SQL Injection.
 
 
